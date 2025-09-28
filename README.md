@@ -1,9 +1,7 @@
 # 👋 Welcome to Sammi’s GitHub
 
 ## 🖥 Coding Zone  
-![LeetCode Stats](https://leetcard.jacoblin.cool/SammiWang0516?theme=light&font=baloo&ext=heatmap)
-[![GitHub Streak](https://streak-stats.demolab.com?user=SammiWang0516&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/SammiWang?theme=light&font=baloo&ext=heatmap)
 ---
 
 ## 🚀 Languages & Tools  
