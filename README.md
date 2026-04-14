@@ -13,8 +13,6 @@
 
 ---
 
-⭐ Always learning, always building. Let’s connect and create something impactful!
-
 - 🔭 I’m currently working on Kaggle dataset and an **Outlook extension** to automatically identify and flag **internship-related emails** — making job hunting smarter and faster.
 - 🌱 I’m currently learning SQL, C++, Machine Learning, Deep Learning, and Data Retrieval
 - 📫 Contacts: (734)590-0524, dsammi@umich.edu
